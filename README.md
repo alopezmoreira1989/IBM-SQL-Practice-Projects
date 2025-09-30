@@ -16,23 +16,6 @@ Perform filtering, grouping, aggregations, and sorting
 
 Work across multiple SQL database environments (Db2 and PostgreSQL)
 
-## 📂 Repository Structure
-IBM_SQL_Practice/
-│
-├─ README.md              <- Project overview (this file)
-├─ data/                  <- Source datasets in Excel format
-│   ├─ employees.xlsx
-│   ├─ departments.xlsx
-│   └─ orders.xlsx
-├─ queries/               <- SQL query files (.sql)
-│   ├─ task3B.sql
-│   ├─ task4A.sql
-│   └─ ...
-├─ screenshots/           <- Screenshots of queries and outputs
-│   ├─ Task3B.JPG
-│   ├─ Task4A.JPG
-│   └─ ...
-
 ## 🗂️ Example Tasks
 Task	Dataset(s)	Objective	Skills Demonstrated
 3B	Employees.xlsx	Calculate average salary per department	GROUP BY, AVG, JOIN
