@@ -18,8 +18,6 @@ Work across multiple SQL database environments (Db2 and PostgreSQL)
 
 ## 🗂️ Example Tasks
 
-### Task	Dataset(s)	Objective	Skills Demonstrated:
-
 - 3B	Employees.xlsx	Calculate average salary per department	GROUP BY, AVG, JOIN
 - 4A	Orders.xlsx, Products.xlsx	Find total sales by product category	SUM, JOIN, ORDER BY
   
